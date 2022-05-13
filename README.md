@@ -2,7 +2,7 @@
  
 Running AI and ML models on an ['Edge' device](https://en.wikipedia.org/wiki/Edge_computing) like a [RaspberryPi](https://www.raspberrypi.com) is easy with Modzy! This repo contains everything necessary to set up an [Air Quality Index](https://www.airnow.gov/aqi/aqi-basics/) sensor to detect current air quality and use that data to generate a next-hour prediction on a RaspberryPi.
 
-See the full documentation here: https://dash.readme.com/project/modzy/v1.1/docs/raspberrypi
+See the full documentation here: https://docs.modzy.com/docs/raspberrypi
 
 ## Hardware BOM
 - [RaspberryPi 3B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
