@@ -1,0 +1,8 @@
+[Unit]
+Description=AQI Logger
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/logger.py
+
+[Install]
+WantedBy=multi-user.target
